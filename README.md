@@ -12,5 +12,4 @@ estudo realizado com o intuito de ter mais dominio sobre o assunto.
     - Object Short Syntax
     
 - [x] Webpack Server
-- [ ] Async/await
-- [ ] Aplicação com ES6+
+- [x] Async/await
