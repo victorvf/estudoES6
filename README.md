@@ -11,6 +11,6 @@ estudo realizado com o intuito de ter mais dominio sobre o assunto.
     - Template Literals
     - Object Short Syntax
     
-- [ ] Webpack Server
+- [x] Webpack Server
 - [ ] Async/await
 - [ ] Aplicação com ES6+
